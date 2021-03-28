@@ -1,16 +1,5 @@
-# login_page
+Flutter - Hoş Geldiniz ve Giriş Ekranı
 
-A new Flutter application.
+Bugün login sayfası  oluşturacağız, Flutter kullanarak bu sayfayı oluşturmanın birçok yolu olduğunu unutmayın, benim yöntemim onlardan biri ve ben flutter konusunda uzman değilim.!
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+[login_page](https://user-images.githubusercontent.com/76742671/112765315-53d34600-9015-11eb-9239-238034369334.png)
